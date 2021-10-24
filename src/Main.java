@@ -1,11 +1,8 @@
+import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-
-<<<<<<< Updated upstream
-        System.out.println("Witaj świecie!");
-=======
         /* ćw.3 */
 
         /*  zad.1 napisać interfejs który bedzie słuzył do wpisania danych osobowych:
